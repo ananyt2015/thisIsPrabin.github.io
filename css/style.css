@@ -2,7 +2,7 @@ body {
     overflow-x:hidden;
     font-family:"Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif
 }
-.text { font-size:25px !important; font-weight:bold !important; }
+.text { font-size:20px !important; font-weight:bold !important; }
 .text-muted {color:#777 }
 
 .text-primary{ color:#fed136; border-radius:0px !important; }
